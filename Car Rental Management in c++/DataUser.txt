@@ -1,0 +1,4 @@
+admin@crc.pk,admin123,ADMIN
+customer@crc.pk,customer123,CUSTOMER
+shahzaibirfan,shazy123,ADMIN
+abrish,hassan,CUSTOMER
